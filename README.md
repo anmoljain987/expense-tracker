@@ -8,7 +8,10 @@
 This project is deployed on Vercel.
 You can clone the application in your system using git clone or download zip and extract it in your system
 
-\*\*(Expense-Tracker)[http://expense-trackerr.vercel.app]
+**[Expense-Tracker -- Click Here](http://expense-trackerr.vercel.app)**
+
+*ScreenShot*
+![Expense](https://user-images.githubusercontent.com/96873348/168592467-3dc95cca-1312-4370-b34a-64f60f80fe0d.png)
 
 # Getting Started with Create React App
 
